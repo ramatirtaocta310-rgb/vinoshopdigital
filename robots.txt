@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ramatirtaocta310-rgb.github.io/vinoshopdigital/sitemap.xml
